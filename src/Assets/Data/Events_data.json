@@ -1,0 +1,194 @@
+[
+    {
+        "event_id":1,
+        "event_name":"Tech Tinder",
+        "event_description":"Get ready for a unique networking experience at our Tech-Tinder Event! Participants will have the chance to meet fellow tech enthusiasts and potential collaborators as they're matched on the spot to form teams based on their preferences or profiles. Once teamed up, it's time to put your skills to the test by collaborating on the creation of a website from scratch. Whether you're a seasoned developer or a design aficionado, this event offers the perfect opportunity to connect, learn, and create something amazing together.",
+        "registration_fees":"₹99/- per Person",
+        "prize_pool":{
+            "first_prize":"INR 3000",
+            "second_prize":"INR 2000",
+            "third_prize":"Third Prize: INR 1000"
+        },
+        "team_size":"Individual",
+        "event_time":"17th May",
+        "event_time_24":"14:00 to 16:00",
+        "event_coordinator1":"Kajal",
+        "coordinator1_mobile": "8597631667",
+        "event_coordinator2":"Chetan",
+        "coordinator2_mobile":"6364583008",
+        "colour_code":"#FF50B4",
+	     "button_id": "btn_f532dcb58b20",
+         "img_path": "https://objectstorage.ap-hyderabad-1.oraclecloud.com/p/t6BVBJ1-FGrX6flF4RtHIn4sPxDhD2CqDwoiCaSk5LwtsKUnyZdDnib2GvwwU95g/n/axllowusnmeq/b/Anokhya/o/thumbnails/tech_tinder.jpg"
+    },
+
+    {
+        "event_id" : 2,
+        "event_name" : "Code-Relay",
+        "event_description": "Think you and your team can conquer a coding challenge? Code Relay throws down the gauntlet with an epic test of teamwork, focus, and coding stamina! Here's the twist: This ain't your average coding competition. You'll tackle a massive program, one teammate at a time, in a pulse-pounding relay race against the clock. Each member dives in for a set time, leaving their mark on the code before passing the baton (or keyboard) to the next. It's a continuous cycle until the finish line, demanding seamless collaboration and razor-sharp coding skills.",
+        "registration_fees":"₹199/- per Team",
+        "prize_pool": {
+            "first_prize": "INR 2500",
+            "second_prize": "INR 1500"
+        },
+        "team_size":"4",
+        "event_time":"17th May",
+        "event_time_24":"14:30 to 16:30",
+        "event_coordinator1": "Suryanshu",
+        "coordinator1_mobile": "9449037095",
+        "event_coordinator2": "Disha",
+        "coordinator2_mobile":"9632583573",
+        "colour_code":"#5CE1E6",
+		"button_id": "btn_eda0daee708c",
+        "img_path": "https://objectstorage.ap-hyderabad-1.oraclecloud.com/p/t6BVBJ1-FGrX6flF4RtHIn4sPxDhD2CqDwoiCaSk5LwtsKUnyZdDnib2GvwwU95g/n/axllowusnmeq/b/Anokhya/o/thumbnails/code_relay.jpg"
+
+    },
+
+    {
+        "event_id":3,
+        "event_name":"Valorant Gaming",
+        "event_description":"Join us for an adrenaline-pumping gaming event centered around the popular tactical shooter, Valorant! Compete against fellow gamers in intense matches filled with strategic gameplay and nail-biting action. Whether you're a seasoned pro or a newcomer looking to showcase your skills, this event promises excitement and camaraderie for all participants",
+        "registration_fees":"₹249/- per Team",
+        "prize_pool":{
+            "first_prize":"INR 2500",
+            "second_prize":"INR 1500",
+            "third_prize":"Third Prize: INR 1000"
+        },
+        "team_size":"5",
+        "event_time":"17th May",
+        "event_time_24":"9:00 to 18:00",
+        "event_coordinator1":"Meshank",
+        "coordinator1_mobile":"8955242466",
+        "event_coordinator2":"Ashwin",
+        "coordinator2_mobile":"8762449632",
+        "colour_code":"#FF3131",
+        "button_id": "btn_c79d101f0ba7",
+        "img_path":"https://objectstorage.ap-hyderabad-1.oraclecloud.com/p/t6BVBJ1-FGrX6flF4RtHIn4sPxDhD2CqDwoiCaSk5LwtsKUnyZdDnib2GvwwU95g/n/axllowusnmeq/b/Anokhya/o/thumbnails/gaming_saga.jpg"
+    },
+
+    {
+        "event_id":4,
+        "event_name":"Deploy It!",
+        "event_description":"Code mavens, unite! This cosmic cyber-sprint challenges you to transform cosmic riddles into full-stack websites at warp speed. Weave front-end sorcery with back-end alchemy, blazing through tasks, ascending to cloud deployment. Proven cyber-savants only - conquer this Zero-to-Hyperspace Deployment Race! It's a race against the clock as the fastest three teams to complete the given task will claim victory!",
+        "registration_fees":"₹149/- per Team",
+        "prize_pool":{
+            "first_prize":"INR 2500",
+            "second_prize":"INR 1500",
+            "third_prize":"Third Prize: INR 1000"
+        },
+        "team_size":"2 to 4",
+        "event_time":"16th May",
+        "event_time_24":"16:30 to 18:00",
+        "event_coordinator1":"Abhitha",
+        "coordinator1_mobile":"8296455102",
+        "event_coordinator2":"Priya",
+        "coordinator2_mobile":"7676898004",
+        "colour_code":"#FFFFFF",
+        "button_id": "btn_8dd11a828ef0",
+        "img_path":"https://objectstorage.ap-hyderabad-1.oraclecloud.com/p/t6BVBJ1-FGrX6flF4RtHIn4sPxDhD2CqDwoiCaSk5LwtsKUnyZdDnib2GvwwU95g/n/axllowusnmeq/b/Anokhya/o/thumbnails/deploy_it.jpg"
+    },
+
+    {
+        "event_id":5,
+        "event_name":"Picture Probe",
+        "event_description":"Prepare to put your tech knowledge to the test in the Picture Probe event! This thrilling competition will challenge participants to swiftly identify images related to the vast and ever evolving domain of technology. With rapid-fire rounds and a variety of images to decipher, this event promises excitement and fun for all tech enthusiasts.",
+        "registration_fees":"₹99/- per Team",
+        "prize_pool":{
+            "first_prize":"₹1000 worth gift cards",
+            "second_prize":"₹500 worth gift cards"
+        },
+        "team_size":"2",
+        "event_time":"16th May",
+        "event_time_24":"11:00 to 13:00",
+        "event_coordinator1":"Ananya",
+        "coordinator1_mobile":"8660430679",
+        "event_coordinator2":"Uday",
+        "coordinator2_mobile":"8297822077",
+        "colour_code":"#ffde59",
+        "button_id": "btn_567e3159e63c",
+        "img_path":"https://objectstorage.ap-hyderabad-1.oraclecloud.com/p/t6BVBJ1-FGrX6flF4RtHIn4sPxDhD2CqDwoiCaSk5LwtsKUnyZdDnib2GvwwU95g/n/axllowusnmeq/b/Anokhya/o/thumbnails/picture_probe.jpg"
+    },
+
+    {
+        "event_id":6,
+        "event_name":"PC Building",
+        "event_description":"Gear up for an exhilarating PC Building Challenge where participants will showcase their technical prowess and teamwork! In this event, teams will be tasked with assembling a disassembled PC within a specified time frame. The challenge will kick off with a quiz to test participants' knowledge of PC hardware, followed by a simulation round conducted on a PC building simulator. The top 8 teams will then advance to the final round, where they'll face the ultimate test of assembling and running a real PC to complete a given task.",
+        "registration_fees":"₹199/- per Team",
+        "prize_pool":{
+            "first_prize":"INR 2500",
+            "second_prize":"INR 1500"
+        },
+        "team_size":"2 to 3",
+        "event_time":"16th May",
+        "event_time_24":"16:30 to 18:00",
+        "event_coordinator1":"Shrihari",
+        "coordinator1_mobile":"7483707839",
+        "event_coordinator2":"Nouman",
+        "coordinator2_mobile":"8431609172",
+        "colour_code":"#c1ff72",
+        "button_id": "btn_59972028f0f2",
+        "img_path":"https://objectstorage.ap-hyderabad-1.oraclecloud.com/p/t6BVBJ1-FGrX6flF4RtHIn4sPxDhD2CqDwoiCaSk5LwtsKUnyZdDnib2GvwwU95g/n/axllowusnmeq/b/Anokhya/o/thumbnails/pc_building.jpg"
+    },
+
+    {
+        "event_id":7,
+        "event_name":"UI/UX",
+        "event_description":"Dive into the realm of user interface and user experience design in our UI/UX Design Challenge Participants will have the opportunity to showcase their creativity and design skills by crafting a visually appealing and user-friendly app or website prototype based on a provided problem statement. Using the Figma design tool, participants will bring their concepts to life, focusing on creating intuitive navigation, engaging layouts, and seamless user interactions.",
+        "registration_fees":"₹149/- per Team",
+        "prize_pool":{
+            "first_prize":"₹1000 worth gift cards",
+            "second_prize":"₹500 worth gift cards"
+        },
+        "team_size":"2 to 3",
+        "event_time":"16th May",
+        "event_time_24":"11:00 to 13:00",
+        "event_coordinator1":"Prateek",
+        "coordinator1_mobile":"9380876050",
+        "event_coordinator2":"Manjunatha",
+        "coordinator2_mobile":"7411231569",
+        "colour_code":"#ebe8d7",
+        "button_id": "btn_33d77d4f5508",
+        "img_path":"https://objectstorage.ap-hyderabad-1.oraclecloud.com/p/t6BVBJ1-FGrX6flF4RtHIn4sPxDhD2CqDwoiCaSk5LwtsKUnyZdDnib2GvwwU95g/n/axllowusnmeq/b/Anokhya/o/thumbnails/ui_ux.jpg"
+    },
+
+    {
+        "event_id":8,
+        "event_name":"Hack My PC",
+        "event_description":"Prepare to put your hacking skills to the test in the ultimate cyber challenge - HackMyPC Participants will face a series of thrilling challenges and tasks designed to test their prowess in penetration testing, network security, cryptography, and more. From cracking codes to exploiting vulnerabilities, participants will navigate through multiple rounds of escalating difficulty as they vie for the title of top hacker",
+        "registration_fees":"₹101/- per Person",
+        "prize_pool":{
+            "first_prize":"₹1000 worth gift cards",
+            "second_prize":"₹500 worth gift cards"
+        },
+        "team_size":"Individual",
+        "event_time":"17th May",
+        "event_time_24":"14:30 to 16:30",
+        "event_coordinator1":"Dhyan",
+        "coordinator1_mobile":"8197334363",
+        "event_coordinator2":"Punith",
+        "coordinator2_mobile":"9019435522",
+        "colour_code":"#23ff9c",
+        "button_id": "btn_fd87bdaed84e",
+        "img_path":"https://objectstorage.ap-hyderabad-1.oraclecloud.com/p/t6BVBJ1-FGrX6flF4RtHIn4sPxDhD2CqDwoiCaSk5LwtsKUnyZdDnib2GvwwU95g/n/axllowusnmeq/b/Anokhya/o/thumbnails/hack_my_pc.jpg"
+    },
+
+    {
+        "event_id":9,
+        "event_name":"Meme Splash",
+        "event_description":"Get ready to flex your comedic muscles in the Meme Splash event! Participants will unleash their creativity by crafting hilarious tech-related memes based on random prompts provided by the organizers. Whether you're a seasoned memer or just getting started, this event promises plenty of laughs and witty humor as participants compete to create the most entertaining memes",
+        "registration_fees":"₹69/- per Person",
+        "prize_pool":{
+            "first_prize":"₹1000 worth gift cards",
+            "second_prize":"₹500 worth gift cards"
+        },
+        "team_size":"Individual",
+        "event_time":"16th May",
+        "event_time_24":"11:30 to 13:30",
+        "event_coordinator1":"Deekshitha",
+        "coordinator1_mobile":"7975767331",
+        "event_coordinator2":"Saketh",
+        "coordinator2_mobile":"9036036171",
+        "colour_code":"#ff914d",
+        "button_id": "btn_d7f4a5c019a1",
+        "img_path":"https://objectstorage.ap-hyderabad-1.oraclecloud.com/p/t6BVBJ1-FGrX6flF4RtHIn4sPxDhD2CqDwoiCaSk5LwtsKUnyZdDnib2GvwwU95g/n/axllowusnmeq/b/Anokhya/o/thumbnails/meme_splash.jpg"
+    }
+]
