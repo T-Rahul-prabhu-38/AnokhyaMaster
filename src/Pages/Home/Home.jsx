@@ -7,6 +7,8 @@ import Timeline from "../../Components/Timeline/Timeline";
 import { BackgroundBoxesDemo } from "../../Components/Landing_Page/try";
 import PageLoader from "../../Components/PageLoader/PageLoader";
 import Events from "../../Components/Events/Events";
+import Homee from "../../Components/Landing_Page/Landing_Page";
+import LandingPage from "../../Components/Landing_Page/trying";
 
 import Aos from "aos";
 import "aos/dist/aos.css";
@@ -24,7 +26,9 @@ function Home() {
       {!hideLoader && (
         <>
           <div className="homeanim">
-            <BackgroundBoxesDemo />
+            {/* <BackgroundBoxesDemo /> */}
+            {/* <LandingPage /> */}
+            <Homee />
           </div>
 
           <About_us />

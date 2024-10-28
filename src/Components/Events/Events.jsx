@@ -10,32 +10,31 @@ const Events = () => {
       title: "Lossless Youths",
       description:
         "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore fuga voluptatum, iure corporis inventore praesentium nisi. Id laboriosam ipsam enim.",
-      image: "https://cdn.mos.cms.futurecdn.net/dP3N4qnEZ4tCTCLq59iysd.jpg",
+      image: "/val.png",
     },
     {
       title: "Estrange Bond",
       description:
         "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore fuga voluptatum, iure corporis inventore praesentium nisi. Id laboriosam ipsam enim.",
-      image: "https://i.redd.it/tc0aqpv92pn21.jpg",
+      image: "/bgmi.jpg",
     },
     {
       title: "The Gate Keeper",
       description:
         "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore fuga voluptatum, iure corporis inventore praesentium nisi. Id laboriosam ipsam enim.",
-      image: "https://wharferj.files.wordpress.com/2015/11/bio_north.jpg",
+      image: "/FFFlogo.jpg",
     },
     {
-      title: "Last Trace Of Us",
+      title: "Photography",
       description:
         "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore fuga voluptatum, iure corporis inventore praesentium nisi. Id laboriosam ipsam enim.",
-      image: "https://images7.alphacoders.com/878/878663.jpg",
+      image: "/photography.jpg",
     },
     {
       title: "Urban Decay",
       description:
         "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore fuga voluptatum, iure corporis inventore praesentium nisi. Id laboriosam ipsam enim.",
-      image:
-        "https://theawesomer.com/photos/2017/07/simon_stalenhag_the_electric_state_6.jpg",
+      image: "p2.jpg",
     },
     {
       title: "The Migration",
