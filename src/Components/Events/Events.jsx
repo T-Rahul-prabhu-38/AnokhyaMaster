@@ -1,48 +1,10 @@
 import "./Events.css";
 import { useRef } from "react";
 import "swiper/css";
+import event_data from "../../Assets/Data/Events_data.json";
 
 const Events = () => {
   const sliderRef = useRef(null);
-
-  const items = [
-    {
-      title: "Lossless Youths",
-      description:
-        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore fuga voluptatum, iure corporis inventore praesentium nisi. Id laboriosam ipsam enim.",
-      image: "/val.png",
-    },
-    {
-      title: "Estrange Bond",
-      description:
-        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore fuga voluptatum, iure corporis inventore praesentium nisi. Id laboriosam ipsam enim.",
-      image: "/bgmi.jpg",
-    },
-    {
-      title: "The Gate Keeper",
-      description:
-        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore fuga voluptatum, iure corporis inventore praesentium nisi. Id laboriosam ipsam enim.",
-      image: "/FFFlogo.jpg",
-    },
-    {
-      title: "Photography",
-      description:
-        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore fuga voluptatum, iure corporis inventore praesentium nisi. Id laboriosam ipsam enim.",
-      image: "/photography.jpg",
-    },
-    {
-      title: "Urban Decay",
-      description:
-        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore fuga voluptatum, iure corporis inventore praesentium nisi. Id laboriosam ipsam enim.",
-      image: "p2.jpg",
-    },
-    {
-      title: "The Migration",
-      description:
-        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore fuga voluptatum, iure corporis inventore praesentium nisi. Id laboriosam ipsam enim.",
-      image: "https://da.se/app/uploads/2015/09/simon-december1994.jpg",
-    },
-  ];
 
   const handleNext = () => {
     const items = sliderRef.current.children;
@@ -63,16 +25,16 @@ const Events = () => {
         </div>
         <div className="event_con">
           <ul className="slider" ref={sliderRef}>
-            {items.map((item, index) => (
+            {event_data.map((ele, index) => (
               <li
                 className="item"
                 key={index}
-                style={{ backgroundImage: `url(${item.image})` }}
+                style={{ backgroundImage: `url(${ele.img_path})` }}
               >
                 <div className="content">
-                  <h2 className="title">{item.title}</h2>
-                  <p className="description">{item.description}</p>
-                  <button>Read More</button>
+                  <h2 className="title">{ele.title}</h2>
+                  <p className="description">{ele.event_description}</p>
+                  <a href={`/events/${ele.event_id}`}>Explore More</a>
                 </div>
               </li>
             ))}

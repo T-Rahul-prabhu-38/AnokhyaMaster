@@ -7,7 +7,6 @@
   display: flex;
   overflow-x: hidden;
   margin-top: 300px;
-
 }
 .events_bottom {
   position: absolute;
@@ -250,6 +249,14 @@ li main {
     left: calc(50% + 440px);
   }
   &:nth-child(6) {
+    left: calc(50% + 660px);
+    opacity: 0;
+  }
+  &:nth-child(7) {
+    left: calc(50% + 660px);
+    opacity: 0;
+  }
+  &:nth-child(8) {
     left: calc(50% + 660px);
     opacity: 0;
   }

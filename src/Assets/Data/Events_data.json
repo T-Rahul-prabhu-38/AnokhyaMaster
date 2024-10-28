@@ -1,0 +1,178 @@
+[
+  {
+    "title": "Photography",
+    "event_id": 1,
+    "event_name": "Photography",
+    "event_description": "Get ready for a unique networking experience at our Tech-Tinder Event! Participants will have the chance to meet fellow tech enthusiasts and potential collaborators as they're matched on the spot to form teams based on their preferences or profiles. Once teamed up, it's time to put your skills to the test by collaborating on the creation of a website from scratch. Whether you're a seasoned developer or a design aficionado, this event offers the perfect opportunity to connect, learn, and create something amazing together.",
+    "registration_fees": "₹99/- per Person",
+    "prize_pool": {
+      "first_prize": "INR 3000",
+      "second_prize": "INR 2000",
+      "third_prize": "Third Prize: INR 1000"
+    },
+    "team_size": "Individual",
+    "event_time": "17th May",
+    "event_time_24": "14:00 to 16:00",
+    "event_coordinator1": "Kajal",
+    "coordinator1_mobile": "8597631667",
+    "event_coordinator2": "Chetan",
+    "coordinator2_mobile": "6364583008",
+    "colour_code": "#FF50B4",
+    "button_id": "btn_f532dcb58b20",
+    "img_path": "/photography.jpg"
+  },
+  {
+    "title": "Free Fire",
+    "event_id": 2,
+    "event_name": "Free Fire",
+    "event_description": "Get ready for a unique networking experience at our Tech-Tinder Event! Participants will have the chance to meet fellow tech enthusiasts and potential collaborators as they're matched on the spot to form teams based on their preferences or profiles. Once teamed up, it's time to put your skills to the test by collaborating on the creation of a website from scratch. Whether you're a seasoned developer or a design aficionado, this event offers the perfect opportunity to connect, learn, and create something amazing together.",
+    "registration_fees": "₹99/- per Person",
+    "prize_pool": {
+      "first_prize": "INR 3000",
+      "second_prize": "INR 2000",
+      "third_prize": "Third Prize: INR 1000"
+    },
+    "team_size": "Individual",
+    "event_time": "17th May",
+    "event_time_24": "14:00 to 16:00",
+    "event_coordinator1": "Kajal",
+    "coordinator1_mobile": "8597631667",
+    "event_coordinator2": "Chetan",
+    "coordinator2_mobile": "6364583008",
+    "colour_code": "#FF50B4",
+    "button_id": "btn_f532dcb58b20",
+    "img_path": "/FFFlogo.jpg"
+  },
+  {
+    "title": "Valorant",
+    "event_id": 3,
+    "event_name": "Valorant",
+    "event_description": "Get ready for a unique networking experience at our Tech-Tinder Event! Participants will have the chance to meet fellow tech enthusiasts and potential collaborators as they're matched on the spot to form teams based on their preferences or profiles. Once teamed up, it's time to put your skills to the test by collaborating on the creation of a website from scratch. Whether you're a seasoned developer or a design aficionado, this event offers the perfect opportunity to connect, learn, and create something amazing together.",
+    "registration_fees": "₹99/- per Person",
+    "prize_pool": {
+      "first_prize": "INR 3000",
+      "second_prize": "INR 2000",
+      "third_prize": "Third Prize: INR 1000"
+    },
+    "team_size": "Individual",
+    "event_time": "17th May",
+    "event_time_24": "14:00 to 16:00",
+    "event_coordinator1": "Kajal",
+    "coordinator1_mobile": "8597631667",
+    "event_coordinator2": "Chetan",
+    "coordinator2_mobile": "6364583008",
+    "colour_code": "#FF50B4",
+    "button_id": "btn_f532dcb58b20",
+    "img_path": "/val.png"
+  },
+  {
+    "title": "BGMI",
+    "event_id": 4,
+    "event_name": "BGMI",
+    "event_description": "Get ready for a unique networking experience at our Tech-Tinder Event! Participants will have the chance to meet fellow tech enthusiasts and potential collaborators as they're matched on the spot to form teams based on their preferences or profiles. Once teamed up, it's time to put your skills to the test by collaborating on the creation of a website from scratch. Whether you're a seasoned developer or a design aficionado, this event offers the perfect opportunity to connect, learn, and create something amazing together.",
+    "registration_fees": "₹99/- per Person",
+    "prize_pool": {
+      "first_prize": "INR 3000",
+      "second_prize": "INR 2000",
+      "third_prize": "Third Prize: INR 1000"
+    },
+    "team_size": "Individual",
+    "event_time": "17th May",
+    "event_time_24": "14:00 to 16:00",
+    "event_coordinator1": "Kajal",
+    "coordinator1_mobile": "8597631667",
+    "event_coordinator2": "Chetan",
+    "coordinator2_mobile": "6364583008",
+    "colour_code": "#FF50B4",
+    "button_id": "btn_f532dcb58b20",
+    "img_path": "/bgmi.svg"
+  },
+  {
+    "title": "Treasure Hunt",
+    "event_id": 5,
+    "event_name": "Treasure Hunt",
+    "event_description": "Get ready for a unique networking experience at our Tech-Tinder Event! Participants will have the chance to meet fellow tech enthusiasts and potential collaborators as they're matched on the spot to form teams based on their preferences or profiles. Once teamed up, it's time to put your skills to the test by collaborating on the creation of a website from scratch. Whether you're a seasoned developer or a design aficionado, this event offers the perfect opportunity to connect, learn, and create something amazing together.",
+    "registration_fees": "₹99/- per Person",
+    "prize_pool": {
+      "first_prize": "INR 3000",
+      "second_prize": "INR 2000",
+      "third_prize": "Third Prize: INR 1000"
+    },
+    "team_size": "Individual",
+    "event_time": "17th May",
+    "event_time_24": "14:00 to 16:00",
+    "event_coordinator1": "Kajal",
+    "coordinator1_mobile": "8597631667",
+    "event_coordinator2": "Chetan",
+    "coordinator2_mobile": "6364583008",
+    "colour_code": "#FF50B4",
+    "button_id": "btn_f532dcb58b20",
+    "img_path": "/THLOgo.jpg"
+  },
+  {
+    "title": "Lossless Youths",
+    "event_id": 6,
+    "event_name": "Tech Tinder",
+    "event_description": "Get ready for a unique networking experience at our Tech-Tinder Event! Participants will have the chance to meet fellow tech enthusiasts and potential collaborators as they're matched on the spot to form teams based on their preferences or profiles. Once teamed up, it's time to put your skills to the test by collaborating on the creation of a website from scratch. Whether you're a seasoned developer or a design aficionado, this event offers the perfect opportunity to connect, learn, and create something amazing together.",
+    "registration_fees": "₹99/- per Person",
+    "prize_pool": {
+      "first_prize": "INR 3000",
+      "second_prize": "INR 2000",
+      "third_prize": "Third Prize: INR 1000"
+    },
+    "team_size": "Individual",
+    "event_time": "17th May",
+    "event_time_24": "14:00 to 16:00",
+    "event_coordinator1": "Kajal",
+    "coordinator1_mobile": "8597631667",
+    "event_coordinator2": "Chetan",
+    "coordinator2_mobile": "6364583008",
+    "colour_code": "#FF50B4",
+    "button_id": "btn_f532dcb58b20",
+    "img_path": "/pubg.svg"
+  },
+  {
+    "title": "Lossless Youths",
+    "event_id": 7,
+    "event_name": "Tech Tinder",
+    "event_description": "Get ready for a unique networking experience at our Tech-Tinder Event! Participants will have the chance to meet fellow tech enthusiasts and potential collaborators as they're matched on the spot to form teams based on their preferences or profiles. Once teamed up, it's time to put your skills to the test by collaborating on the creation of a website from scratch. Whether you're a seasoned developer or a design aficionado, this event offers the perfect opportunity to connect, learn, and create something amazing together.",
+    "registration_fees": "₹99/- per Person",
+    "prize_pool": {
+      "first_prize": "INR 3000",
+      "second_prize": "INR 2000",
+      "third_prize": "Third Prize: INR 1000"
+    },
+    "team_size": "Individual",
+    "event_time": "17th May",
+    "event_time_24": "14:00 to 16:00",
+    "event_coordinator1": "Kajal",
+    "coordinator1_mobile": "8597631667",
+    "event_coordinator2": "Chetan",
+    "coordinator2_mobile": "6364583008",
+    "colour_code": "#FF50B4",
+    "button_id": "btn_f532dcb58b20",
+    "img_path": "/photography.jpg"
+  },
+  {
+    "title": "Lossless Youths",
+    "event_id": 8,
+    "event_name": "Tech Tinder",
+    "event_description": "Get ready for a unique networking experience at our Tech-Tinder Event! Participants will have the chance to meet fellow tech enthusiasts and potential collaborators as they're matched on the spot to form teams based on their preferences or profiles. Once teamed up, it's time to put your skills to the test by collaborating on the creation of a website from scratch. Whether you're a seasoned developer or a design aficionado, this event offers the perfect opportunity to connect, learn, and create something amazing together.",
+    "registration_fees": "₹99/- per Person",
+    "prize_pool": {
+      "first_prize": "INR 3000",
+      "second_prize": "INR 2000",
+      "third_prize": "Third Prize: INR 1000"
+    },
+    "team_size": "Individual",
+    "event_time": "17th May",
+    "event_time_24": "14:00 to 16:00",
+    "event_coordinator1": "Kajal",
+    "coordinator1_mobile": "8597631667",
+    "event_coordinator2": "Chetan",
+    "coordinator2_mobile": "6364583008",
+    "colour_code": "#FF50B4",
+    "button_id": "btn_f532dcb58b20",
+    "img_path": "/photography.jpg"
+  }
+]

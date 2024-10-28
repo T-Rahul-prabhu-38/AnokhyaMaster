@@ -1,6 +1,6 @@
 import { useEffect, useRef } from "react";
 import "./Event.css";
-import event_data from "../../Assets/Data/Events_data.js";
+import event_data from "../../Assets/Data/Events_data.json";
 import eimg from "../../Assets/Events/1.png";
 import VanillaTilt from "vanilla-tilt";
 
