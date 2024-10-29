@@ -58,7 +58,7 @@ export function LampDemo() {
         initial={{ opacity: 0.5, y: 50 }}
         whileInView={{ opacity: 1, y: -130 }}
         transition={{
-          delay: 0.3,
+          delay: 0.1,
           duration: 0.8,
           ease: "easeInOut",
         }}

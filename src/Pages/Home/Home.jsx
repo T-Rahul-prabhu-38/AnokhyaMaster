@@ -27,8 +27,8 @@ function Home() {
         <>
           <div className="homeanim">
             {/* <BackgroundBoxesDemo /> */}
-            {/* <LandingPage /> */}
-            <Homee />
+            <LandingPage />
+            {/* <Homee /> */}
           </div>
 
           <About_us />

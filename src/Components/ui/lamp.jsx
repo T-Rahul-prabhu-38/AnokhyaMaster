@@ -17,7 +17,7 @@ export const LampContainer = ({ children, className }) => {
             initial={{ opacity: 0.5, width: "1rem" }}
             whileInView={{ opacity: 1, width: "60rem" }}
             transition={{
-              delay: 0.1,
+              delay: 0,
               duration: 1,
               ease: "easeInOut",
             }}
@@ -33,7 +33,7 @@ export const LampContainer = ({ children, className }) => {
             initial={{ opacity: 0.5, width: "1rem" }}
             whileInView={{ opacity: 1, width: "60rem" }}
             transition={{
-              delay: 0.1,
+              delay: 0,
               duration: 1,
               ease: "easeInOut",
             }}
@@ -53,7 +53,7 @@ export const LampContainer = ({ children, className }) => {
             initial={{ width: "1rem" }}
             whileInView={{ width: "16rem" }}
             transition={{
-              delay: 0.1,
+              delay: 0,
               duration: 1,
               ease: "easeInOut",
             }}
@@ -63,7 +63,7 @@ export const LampContainer = ({ children, className }) => {
             initial={{ width: "1rem" }}
             whileInView={{ width: "30rem" }}
             transition={{
-              delay: 0.1,
+              delay: 0,
               duration: 1,
               ease: "easeInOut",
             }}
